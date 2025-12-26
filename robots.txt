@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Add Sitemap after domain is connected:
-# Sitemap: https://YOURDOMAIN.tld/sitemap.xml
+# Sitemap: https://finromania.com/sitemap.xml
