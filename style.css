@@ -453,45 +453,37 @@ strong{font-weight:900}
 
 /* ===== Offer Cards (Affiliate) - Wide & Compact Design ===== */
 
-/* Grid: Mobile-first 2 columns */
+/* Grid: strict breakpoints, no fluid */
 .offers {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
-  margin-top: 20px;
+  grid-template-columns: 1fr;
+  gap: var(--s3);
+  margin-top: var(--s4);
 }
 
-/* Tablet: 768-1023px = 2 columns */
+/* Tablet: 768-1099px = 2 columns */
 @media (min-width: 768px) {
   .offers {
     grid-template-columns: repeat(2, 1fr);
-    gap: 18px;
+    gap: var(--s4);
   }
 }
 
-/* Small desktop: 1024-1279px = 3 columns */
-@media (min-width: 1024px) {
+/* Desktop: 1100-1399px = 3 columns */
+@media (min-width: 1100px) {
   .offers {
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
   }
 }
 
-/* Large desktop: ≥1280px = 4 columns */
-@media (min-width: 1280px) {
+/* Large desktop: >=1400px = 4 columns */
+@media (min-width: 1400px) {
   .offers {
     grid-template-columns: repeat(4, 1fr);
   }
 }
 
-.offers-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
-  margin-top: 20px;
-}
-
-/* Card: Wide, compact, flex column */
+/* Card: flex column, CTA pinned to bottom */
 .offer-card {
   background: #fff;
   border: 1px solid var(--border);
@@ -510,9 +502,10 @@ strong{font-weight:900}
 /* Header: Logo left, title center, badge right */
 .offer-head {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 10px;
   background: transparent;
+  min-height: 44px;
 }
 
 .offer-brandline {
@@ -575,6 +568,7 @@ strong{font-weight:900}
   border: 1px solid rgba(60,110,113,.12);
   white-space: nowrap;
   flex-shrink: 0;
+  align-self: flex-start;
 }
 
 .offer-pill--alt {
@@ -589,6 +583,7 @@ strong{font-weight:900}
   grid-template-columns: 1fr 1fr;
   gap: 6px;
   background: transparent;
+  min-height: 76px;
 }
 
 .fact {
@@ -596,6 +591,7 @@ strong{font-weight:900}
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 8px 10px;
+  min-height: 34px;
 }
 
 .fact-label {
@@ -665,17 +661,12 @@ strong{font-weight:900}
   outline-offset: 2px;
 }
 
-/* Mobile adjustments (≤767px) */
+/* Mobile adjustments (<768px) - single column */
 @media (max-width: 767px) {
-  .offers {
-    gap: 10px;
-  }
-  
   .offer-card {
-    padding: 10px 12px;
-    gap: 8px;
-    min-height: 240px;
-    border-radius: 12px;
+    padding: 12px 14px;
+    gap: 10px;
+    border-radius: var(--r-sm);
   }
   
   .offer-head {
@@ -683,27 +674,26 @@ strong{font-weight:900}
   }
   
   .offer-logo {
-    width: 32px;
-    height: 32px;
+    width: 36px;
+    height: 36px;
     border-radius: 8px;
   }
   
   .offer-title {
-    font-size: 13px;
+    font-size: 14px;
   }
   
   .offer-subtitle {
-    font-size: 10px;
-    -webkit-line-clamp: 1;
+    font-size: 11px;
   }
   
   .offer-pill {
-    font-size: 8px;
-    padding: 3px 6px;
+    font-size: 9px;
+    padding: 3px 7px;
   }
   
   .offer-facts {
-    gap: 4px;
+    gap: 6px;
   }
   
   .fact {
@@ -713,16 +703,14 @@ strong{font-weight:900}
   
   .fact-label {
     font-size: 8px;
-    margin-bottom: 1px;
   }
   
   .fact-value {
-    font-size: 11px;
+    font-size: 12px;
   }
   
   .offer-disclaimer {
     font-size: 9px;
-    -webkit-line-clamp: 2;
   }
   
   .offer-cta {
@@ -730,9 +718,9 @@ strong{font-weight:900}
   }
   
   .offer-btn {
-    font-size: 12px;
-    padding: 8px 12px;
-    min-height: 36px;
+    font-size: 13px;
+    padding: 10px 14px;
+    min-height: 42px;
   }
 }
 
