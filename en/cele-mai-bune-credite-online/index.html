@@ -30,11 +30,12 @@
         <a href="../cele-mai-bune-credite-online/" aria-current="page">Compare</a>
         <a href="../contact/">Contact</a>
       </nav>
-      <div style="display:flex;align-items:center;gap:10px;margin-left:auto">
-        <a href="./" style="font-size:12px;color:#3C6E71;text-decoration:underline;font-weight:700">EN</a>
-        <span style="color:#e5eaf0">|</span>
-        <a href="../../cele-mai-bune-credite-online/" style="font-size:12px;color:#5b6472;text-decoration:underline">RO</a>
+
+      <div class="lang-switch">
+        <a href="./" class="active">EN</a>
+        <a href="../../cele-mai-bune-credite-online/">RO</a>
       </div>
+
       <button id="menu-toggle" class="menu-btn" type="button"
         aria-label="Toggle navigation" aria-expanded="false" aria-controls="mobile-menu">
         <svg width="28" height="28" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -111,148 +112,118 @@
           this does not affect your offer or pricing.
         </p>
         
-        <div class="offers-grid">
-          <article class="offerCard" itemscope itemtype="https://schema.org/FinancialProduct">
-            <header class="offerCard__head">
-              <div class="offerCard__brand">
-                <div class="offerCard__logo" aria-hidden="true">
-                  <img src="https://via.placeholder.com/140x56?text=Cashtero" alt="Cashtero" width="120" height="40" loading="lazy" decoding="async">
-                </div>
-                <div class="offerCard__titleWrap">
-                  <h3 class="offerCard__title" itemprop="name">Cashtero</h3>
-                  <p class="offerCard__subtitle">For fast decision</p>
+        <div class="offers">
+          <article class="offer-card">
+            <header class="offer-head">
+              <div class="offer-brandline">
+                <img class="offer-logo" src="/cashtero.png" alt="Cashtero" loading="lazy" width="48" height="48">
+                <div class="offer-titlewrap">
+                  <div class="offer-title">Cashtero</div>
+                  <div class="offer-subtitle">For fast decision</div>
                 </div>
               </div>
-              <div class="offerCard__badges" aria-label="Highlights">
-                <span class="badge">Fast</span>
-              </div>
+              <span class="offer-pill">Fast</span>
             </header>
 
-            <div class="offerCard__body">
-              <ul class="offerFacts" aria-label="Key terms">
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Amount</span>
-                  <span class="offerFacts__value"><strong>100–5,000 RON</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Term</span>
-                  <span class="offerFacts__value"><strong>7–365 days</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Time to receive</span>
-                  <span class="offerFacts__value"><strong>15 min</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Age</span>
-                  <span class="offerFacts__value">18–75</span>
-                </li>
-              </ul>
-              <p class="offerCard__fineprint">
-                Final terms and approval depend on lender. Always check full T&amp;C on lender's website.
-              </p>
+            <div class="offer-facts">
+              <div class="fact">
+                <div class="fact-label">Amount</div>
+                <div class="fact-value">100–5,000 RON</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Term</div>
+                <div class="fact-value">7–365 days</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Time to receive</div>
+                <div class="fact-value">15 min</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Age</div>
+                <div class="fact-value">18–75</div>
+              </div>
             </div>
 
-            <footer class="offerCard__foot">
-              <a class="btnPrimary" href="https://go.goodaff.eu/cashtero" target="_blank" rel="nofollow sponsored noopener noreferrer" aria-label="View terms for Cashtero">
-                View terms
-              </a>
-              <a class="btnGhost" href="../credite-online-sigure/">How to verify safety</a>
+            <p class="offer-disclaimer">Final terms and approval depend on lender. Always check full T&amp;C on lender's website.</p>
+
+            <footer class="offer-cta">
+              <a class="offer-btn" href="https://go.goodaff.eu/cashtero" target="_blank" rel="nofollow sponsored noopener noreferrer">View terms</a>
             </footer>
           </article>
 
-          <article class="offerCard" itemscope itemtype="https://schema.org/FinancialProduct">
-            <header class="offerCard__head">
-              <div class="offerCard__brand">
-                <div class="offerCard__logo" aria-hidden="true">
-                  <img src="https://via.placeholder.com/140x56?text=Casheddy" alt="Casheddy" width="120" height="40" loading="lazy" decoding="async">
-                </div>
-                <div class="offerCard__titleWrap">
-                  <h3 class="offerCard__title" itemprop="name">Casheddy</h3>
-                  <p class="offerCard__subtitle">First loan 0% interest</p>
+          <article class="offer-card">
+            <header class="offer-head">
+              <div class="offer-brandline">
+                <img class="offer-logo" src="/casheddy.png" alt="Casheddy" loading="lazy" width="48" height="48">
+                <div class="offer-titlewrap">
+                  <div class="offer-title">Casheddy</div>
+                  <div class="offer-subtitle">First loan 0% interest</div>
                 </div>
               </div>
-              <div class="offerCard__badges" aria-label="Highlights">
-                <span class="badge badge--soft">0% intro</span>
-              </div>
+              <span class="offer-pill offer-pill--alt">0% intro</span>
             </header>
 
-            <div class="offerCard__body">
-              <ul class="offerFacts" aria-label="Key terms">
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Amount</span>
-                  <span class="offerFacts__value"><strong>100–10,000 RON</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Term</span>
-                  <span class="offerFacts__value"><strong>90–360 days</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Time to receive</span>
-                  <span class="offerFacts__value"><strong>1 day</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Age</span>
-                  <span class="offerFacts__value">18–70</span>
-                </li>
-              </ul>
-              <p class="offerCard__fineprint">
-                Offer valid for new customers only. Read full terms on lender's website.
-              </p>
+            <div class="offer-facts">
+              <div class="fact">
+                <div class="fact-label">Amount</div>
+                <div class="fact-value">100–10,000 RON</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Term</div>
+                <div class="fact-value">90–360 days</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Time to receive</div>
+                <div class="fact-value">1 day</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Age</div>
+                <div class="fact-value">18–70</div>
+              </div>
             </div>
 
-            <footer class="offerCard__foot">
-              <a class="btnPrimary" href="https://go.goodaff.eu/casheddy" target="_blank" rel="nofollow sponsored noopener noreferrer" aria-label="View terms for Casheddy">
-                View terms
-              </a>
-              <a class="btnGhost" href="../credite-online-sigure/">How to verify safety</a>
+            <p class="offer-disclaimer">Offer valid for new customers only. Read full terms on lender's website.</p>
+
+            <footer class="offer-cta">
+              <a class="offer-btn" href="https://go.goodaff.eu/casheddy" target="_blank" rel="nofollow sponsored noopener noreferrer">View terms</a>
             </footer>
           </article>
 
-          <article class="offerCard" itemscope itemtype="https://schema.org/FinancialProduct">
-            <header class="offerCard__head">
-              <div class="offerCard__brand">
-                <div class="offerCard__logo" aria-hidden="true">
-                  <img src="https://via.placeholder.com/140x56?text=Avinto" alt="Avinto" width="120" height="40" loading="lazy" decoding="async">
-                </div>
-                <div class="offerCard__titleWrap">
-                  <h3 class="offerCard__title" itemprop="name">Avinto</h3>
-                  <p class="offerCard__subtitle">Up to 10,000 RON online</p>
+          <article class="offer-card">
+            <header class="offer-head">
+              <div class="offer-brandline">
+                <img class="offer-logo" src="/avinto.png" alt="Avinto" loading="lazy" width="48" height="48">
+                <div class="offer-titlewrap">
+                  <div class="offer-title">Avinto</div>
+                  <div class="offer-subtitle">Up to 10,000 RON online</div>
                 </div>
               </div>
-              <div class="offerCard__badges" aria-label="Highlights">
-                <span class="badge">Flexible</span>
-              </div>
+              <span class="offer-pill">Flexible</span>
             </header>
 
-            <div class="offerCard__body">
-              <ul class="offerFacts" aria-label="Key terms">
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Amount</span>
-                  <span class="offerFacts__value"><strong>200–10,000 RON</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Term</span>
-                  <span class="offerFacts__value"><strong>30–720 days</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Time to receive</span>
-                  <span class="offerFacts__value"><strong>1 day</strong></span>
-                </li>
-                <li class="offerFacts__item">
-                  <span class="offerFacts__label">Age</span>
-                  <span class="offerFacts__value">20–70</span>
-                </li>
-              </ul>
-              <p class="offerCard__fineprint">
-                Approval rate varies. Verify eligibility on official website.
-              </p>
+            <div class="offer-facts">
+              <div class="fact">
+                <div class="fact-label">Amount</div>
+                <div class="fact-value">200–10,000 RON</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Term</div>
+                <div class="fact-value">30–720 days</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Time to receive</div>
+                <div class="fact-value">1 day</div>
+              </div>
+              <div class="fact">
+                <div class="fact-label">Age</div>
+                <div class="fact-value">20–70</div>
+              </div>
             </div>
 
-            <footer class="offerCard__foot">
-              <a class="btnPrimary" href="https://go.goodaff.eu/avinto" target="_blank" rel="nofollow sponsored noopener noreferrer" aria-label="View terms for Avinto">
-                View terms
-              </a>
-              <a class="btnGhost" href="../credite-online-sigure/">How to verify safety</a>
+            <p class="offer-disclaimer">Approval rate varies. Verify eligibility on official website.</p>
+
+            <footer class="offer-cta">
+              <a class="offer-btn" href="https://go.goodaff.eu/avinto" target="_blank" rel="nofollow sponsored noopener noreferrer">View terms</a>
             </footer>
           </article>
         </div>
