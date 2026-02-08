@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "generated": "2026-02-08",
+    "total_pages": 19,
+    "analysis_type": "Internal Link Structure Analysis"
+  },
+  "pages": {
+    "/": {
+      "path": "/",
+      "title": "Credite Online România 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "intro"},
+          {"target": "/credite-online-sigure/", "text": "cum să evitaţi înşelătorii", "section": "intro"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Deschideţi comparaţia →", "section": "quick_links"},
+          {"target": "/credite-online-sigure/", "text": "Deschideţi lista de siguranță →", "section": "quick_links"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 14
+    },
+    "/en/": {
+      "path": "/en/",
+      "title": "Online Loans Romania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "intro"},
+          {"target": "/en/credite-online-sigure/", "text": "how to avoid scams", "section": "intro"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Open comparison →", "section": "quick_links"},
+          {"target": "/en/credite-online-sigure/", "text": "Open safety checklist →", "section": "quick_links"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 14
+    },
+    "/cele-mai-bune-credite-online/": {
+      "path": "/cele-mai-bune-credite-online/",
+      "title": "Comparaţie Credite Online România 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"},
+          {"target": "/credite-online-sigure/", "text": "citiţi lista de verificare a siguranţei", "section": "intro"},
+          {"target": "/credite-online-sigure/", "text": "verificaţi lenderul și evitaţi înşelătorii", "section": "next"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 13
+    },
+    "/en/cele-mai-bune-credite-online/": {
+      "path": "/en/cele-mai-bune-credite-online/",
+      "title": "Compare Online Loans Romania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"},
+          {"target": "/en/credite-online-sigure/", "text": "read the safety checklist", "section": "intro"},
+          {"target": "/en/credite-online-sigure/", "text": "verify the lender and avoid scams", "section": "next"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 13
+    },
+    "/contact/": {
+      "path": "/contact/",
+      "title": "Contact — FinRomania 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/contact/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 11
+    },
+    "/en/contact/": {
+      "path": "/en/contact/",
+      "title": "Contact — FinRomania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/contact/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 11
+    },
+    "/despre-noi/": {
+      "path": "/despre-noi/",
+      "title": "Despre Noi — FinRomania 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/despre-noi/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"},
+          {"target": "/cum-castiga/", "text": "Cum câştigăm", "section": "links"},
+          {"target": "/privacy-policy/", "text": "Politica de confidenţialitate", "section": "links"},
+          {"target": "/terms/", "text": "Termeni", "section": "links"},
+          {"target": "/contact/", "text": "Contact", "section": "links"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 15
+    },
+    "/en/despre-noi/": {
+      "path": "/en/despre-noi/",
+      "title": "About Us — FinRomania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/despre-noi/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"},
+          {"target": "/en/cum-castigam/", "text": "How we make money", "section": "links"},
+          {"target": "/en/privacy-policy/", "text": "Privacy policy", "section": "links"},
+          {"target": "/en/terms/", "text": "Terms", "section": "links"},
+          {"target": "/en/contact/", "text": "Contact", "section": "links"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 15
+    },
+    "/cum-castiga/": {
+      "path": "/cum-castiga/",
+      "title": "Cum Câştigăm — FinRomania 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/cum-castiga/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 11
+    },
+    "/en/cum-castiga/": {
+      "path": "/en/cum-castiga/",
+      "title": "How We Make Money — FinRomania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/cum-castiga/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 11
+    },
+    "/credite-online-sigure/": {
+      "path": "/credite-online-sigure/",
+      "title": "Credite Sigure România 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Deschideţi comparaţia", "section": "intro"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Pagina de comparaţie (decizie)", "section": "next"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid complet", "section": "next"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 14
+    },
+    "/en/credite-online-sigure/": {
+      "path": "/en/credite-online-sigure/",
+      "title": "Safe Online Loans Romania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Open comparison", "section": "intro"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Comparison page (decision)", "section": "next"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Full guide", "section": "next"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 14
+    },
+    "/ghid-credite-online-romania/": {
+      "path": "/ghid-credite-online-romania/",
+      "title": "Ghid Credite Online România 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "pagina de comparaţie", "section": "intro"},
+          {"target": "/credite-online-sigure/", "text": "cum verificaţi un lender și evitaţi înşelătorii", "section": "safety"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţi opţiuni", "section": "next"},
+          {"target": "/credite-online-sigure/", "text": "Lista de verificare a siguranţei", "section": "next"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 15
+    },
+    "/en/ghid-credite-online-romania/": {
+      "path": "/en/ghid-credite-online-romania/",
+      "title": "Online Loans Guide Romania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/ghid-credite-online-romania/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "comparison page", "section": "intro"},
+          {"target": "/en/credite-online-sigure/", "text": "how to verify a lender and avoid scams", "section": "safety"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare options", "section": "next"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety checklist", "section": "next"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 15
+    },
+    "/privacy-policy/": {
+      "path": "/privacy-policy/",
+      "title": "Politica de Confidenţialitate — FinRomania 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/privacy-policy/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 11
+    },
+    "/en/privacy-policy/": {
+      "path": "/en/privacy-policy/",
+      "title": "Privacy Policy — FinRomania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/privacy-policy/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 11
+    },
+    "/terms/": {
+      "path": "/terms/",
+      "title": "Termeni de Utilizare — FinRomania 2026",
+      "language": "ro",
+      "outbound_links": {
+        "header": [
+          {"target": "/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "nav"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "nav"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "nav"},
+          {"target": "/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/en/terms/", "text": "EN", "section": "lang_switch"},
+          {"target": "/ghid-credite-online-romania/", "text": "Ghid", "section": "mobile_menu"},
+          {"target": "/credite-online-sigure/", "text": "Siguranță", "section": "mobile_menu"},
+          {"target": "/cele-mai-bune-credite-online/", "text": "Comparaţie", "section": "mobile_menu"},
+          {"target": "/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/", "text": "Acasă", "section": "breadcrumbs"},
+          {"target": "/cum-castiga/", "text": "Citiţi mai mult →", "section": "affiliate"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 12
+    },
+    "/en/terms/": {
+      "path": "/en/terms/",
+      "title": "Terms of Use — FinRomania 2026",
+      "language": "en",
+      "outbound_links": {
+        "header": [
+          {"target": "/en/", "text": "FinRomania", "section": "header_logo"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "nav"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "nav"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "nav"},
+          {"target": "/en/contact/", "text": "Contact", "section": "nav"},
+          {"target": "/terms/", "text": "RO", "section": "lang_switch"},
+          {"target": "/en/ghid-credite-online-romania/", "text": "Guide", "section": "mobile_menu"},
+          {"target": "/en/credite-online-sigure/", "text": "Safety", "section": "mobile_menu"},
+          {"target": "/en/cele-mai-bune-credite-online/", "text": "Compare", "section": "mobile_menu"},
+          {"target": "/en/contact/", "text": "Contact", "section": "mobile_menu"}
+        ],
+        "main": [
+          {"target": "/en/", "text": "Home", "section": "breadcrumbs"},
+          {"target": "/en/cum-castigam/", "text": "Read more →", "section": "affiliate"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 12
+    },
+    "/en/404.html": {
+      "path": "/en/404.html",
+      "title": "404 — Page not found",
+      "language": "en",
+      "outbound_links": {
+        "header": [],
+        "main": [
+          {"target": "/en/", "text": "Go back to home →", "section": "main"}
+        ],
+        "footer": []
+      },
+      "total_outbound_internal_links": 1
+    }
+  },
+  "inbound_link_count": {
+    "/": {
+      "count": 11,
+      "sources": [
+        "/cele-mai-bune-credite-online/",
+        "/contact/",
+        "/despre-noi/",
+        "/cum-castiga/",
+        "/credite-online-sigure/",
+        "/ghid-credite-online-romania/",
+        "/privacy-policy/",
+        "/terms/",
+        "/",
+        "/",
+        "/"
+      ]
+    },
+    "/en/": {
+      "count": 11,
+      "sources": [
+        "/en/cele-mai-bune-credite-online/",
+        "/en/contact/",
+        "/en/despre-noi/",
+        "/en/cum-castiga/",
+        "/en/credite-online-sigure/",
+        "/en/ghid-credite-online-romania/",
+        "/en/privacy-policy/",
+        "/en/terms/",
+        "/en/",
+        "/en/",
+        "/en/404.html"
+      ]
+    },
+    "/ghid-credite-online-romania/": {
+      "count": 28,
+      "sources": [
+        "/",
+        "/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/contact/",
+        "/contact/",
+        "/despre-noi/",
+        "/despre-noi/",
+        "/cum-castiga/",
+        "/cum-castiga/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/privacy-policy/",
+        "/privacy-policy/",
+        "/terms/",
+        "/terms/"
+      ]
+    },
+    "/en/ghid-credite-online-romania/": {
+      "count": 28,
+      "sources": [
+        "/en/",
+        "/en/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/contact/",
+        "/en/contact/",
+        "/en/despre-noi/",
+        "/en/despre-noi/",
+        "/en/cum-castiga/",
+        "/en/cum-castiga/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/privacy-policy/",
+        "/en/privacy-policy/",
+        "/en/terms/",
+        "/en/terms/"
+      ]
+    },
+    "/credite-online-sigure/": {
+      "count": 32,
+      "sources": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/contact/",
+        "/contact/",
+        "/despre-noi/",
+        "/despre-noi/",
+        "/cum-castiga/",
+        "/cum-castiga/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/privacy-policy/",
+        "/privacy-policy/",
+        "/terms/",
+        "/terms/"
+      ]
+    },
+    "/en/credite-online-sigure/": {
+      "count": 32,
+      "sources": [
+        "/en/",
+        "/en/",
+        "/en/",
+        "/en/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/contact/",
+        "/en/contact/",
+        "/en/despre-noi/",
+        "/en/despre-noi/",
+        "/en/cum-castiga/",
+        "/en/cum-castiga/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/privacy-policy/",
+        "/en/privacy-policy/",
+        "/en/terms/",
+        "/en/terms/"
+      ]
+    },
+    "/cele-mai-bune-credite-online/": {
+      "count": 32,
+      "sources": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/contact/",
+        "/contact/",
+        "/despre-noi/",
+        "/despre-noi/",
+        "/cum-castiga/",
+        "/cum-castiga/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/privacy-policy/",
+        "/privacy-policy/",
+        "/terms/",
+        "/terms/"
+      ]
+    },
+    "/en/cele-mai-bune-credite-online/": {
+      "count": 32,
+      "sources": [
+        "/en/",
+        "/en/",
+        "/en/",
+        "/en/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/contact/",
+        "/en/contact/",
+        "/en/despre-noi/",
+        "/en/despre-noi/",
+        "/en/cum-castiga/",
+        "/en/cum-castiga/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/privacy-policy/",
+        "/en/privacy-policy/",
+        "/en/terms/",
+        "/en/terms/"
+      ]
+    },
+    "/contact/": {
+      "count": 22,
+      "sources": [
+        "/",
+        "/",
+        "/cele-mai-bune-credite-online/",
+        "/cele-mai-bune-credite-online/",
+        "/contact/",
+        "/contact/",
+        "/despre-noi/",
+        "/despre-noi/",
+        "/despre-noi/",
+        "/cum-castiga/",
+        "/cum-castiga/",
+        "/credite-online-sigure/",
+        "/credite-online-sigure/",
+        "/ghid-credite-online-romania/",
+        "/ghid-credite-online-romania/",
+        "/privacy-policy/",
+        "/privacy-policy/",
+        "/terms/",
+        "/terms/"
+      ]
+    },
+    "/en/contact/": {
+      "count": 22,
+      "sources": [
+        "/en/",
+        "/en/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/cele-mai-bune-credite-online/",
+        "/en/contact/",
+        "/en/contact/",
+        "/en/despre-noi/",
+        "/en/despre-noi/",
+        "/en/despre-noi/",
+        "/en/cum-castiga/",
+        "/en/cum-castiga/",
+        "/en/credite-online-sigure/",
+        "/en/credite-online-sigure/",
+        "/en/ghid-credite-online-romania/",
+        "/en/ghid-credite-online-romania/",
+        "/en/privacy-policy/",
+        "/en/privacy-policy/",
+        "/en/terms/",
+        "/en/terms/"
+      ]
+    },
+    "/despre-noi/": {
+      "count": 1,
+      "sources": ["/"]
+    },
+    "/en/despre-noi/": {
+      "count": 1,
+      "sources": ["/en/"]
+    },
+    "/cum-castiga/": {
+      "count": 2,
+      "sources": ["/despre-noi/", "/terms/"]
+    },
+    "/en/cum-castigam/": {
+      "count": 2,
+      "sources": ["/en/despre-noi/", "/en/terms/"]
+    },
+    "/privacy-policy/": {
+      "count": 1,
+      "sources": ["/despre-noi/"]
+    },
+    "/en/privacy-policy/": {
+      "count": 1,
+      "sources": ["/en/despre-noi/"]
+    },
+    "/terms/": {
+      "count": 1,
+      "sources": ["/despre-noi/"]
+    },
+    "/en/terms/": {
+      "count": 1,
+      "sources": ["/en/despre-noi/"]
+    }
+  },
+  "summary": {
+    "total_internal_links": 244,
+    "most_linked_pages": [
+      {
+        "path": "/credite-online-sigure/",
+        "inbound_count": 32,
+        "description": "Safety checklist page (RO)"
+      },
+      {
+        "path": "/en/credite-online-sigure/",
+        "inbound_count": 32,
+        "description": "Safety checklist page (EN)"
+      },
+      {
+        "path": "/cele-mai-bune-credite-online/",
+        "inbound_count": 32,
+        "description": "Comparison page (RO)"
+      },
+      {
+        "path": "/en/cele-mai-bune-credite-online/",
+        "inbound_count": 32,
+        "description": "Comparison page (EN)"
+      },
+      {
+        "path": "/ghid-credite-online-romania/",
+        "inbound_count": 28,
+        "description": "Full guide page (RO)"
+      },
+      {
+        "path": "/en/ghid-credite-online-romania/",
+        "inbound_count": 28,
+        "description": "Full guide page (EN)"
+      }
+    ],
+    "least_linked_pages": [
+      {
+        "path": "/en/404.html",
+        "inbound_count": 0,
+        "description": "404 error page"
+      },
+      {
+        "path": "/despre-noi/",
+        "inbound_count": 1,
+        "description": "About page (RO)"
+      },
+      {
+        "path": "/en/despre-noi/",
+        "inbound_count": 1,
+        "description": "About page (EN)"
+      },
+      {
+        "path": "/privacy-policy/",
+        "inbound_count": 1,
+        "description": "Privacy policy page (RO)"
+      },
+      {
+        "path": "/en/privacy-policy/",
+        "inbound_count": 1,
+        "description": "Privacy policy page (EN)"
+      },
+      {
+        "path": "/terms/",
+        "inbound_count": 1,
+        "description": "Terms page (RO)"
+      },
+      {
+        "path": "/en/terms/",
+        "inbound_count": 1,
+        "description": "Terms page (EN)"
+      }
+    ],
+    "link_distribution": {
+      "header_nav": "All pages have consistent header navigation with 4 main links + language switcher",
+      "main_content": "Strategic contextual links to safety and comparison pages",
+      "footer": "Minimal footer links, mostly contact info",
+      "breadcrumbs": "All non-home pages link back to home via breadcrumbs"
+    },
+    "key_insights": [
+      "The three main content pages (Compare, Safety, Guide) are most heavily linked",
+      "Each main page cross-links to the other two, creating strong topical connections",
+      "Legal/utility pages (Terms, Privacy, About, How We Make Money) have minimal inbound links",
+      "Header navigation provides consistent access to all main pages from anywhere",
+      "Language versions mirror the same link structure",
+      "Homepage serves as hub with direct links to all main content pages",
+      "404 page is isolated with only outbound link to home"
+    ],
+    "recommendations": [
+      "Add footer links to legal pages (Privacy, Terms, About) on all pages to improve discoverability",
+      "Consider adding 'How We Make Money' link to footer for transparency",
+      "Link to 'About Us' page from homepage or add to main navigation",
+      "Add related page suggestions at bottom of content pages",
+      "Create internal link from homepage to About/Despre-noi page",
+      "Add breadcrumb to 404 page for better navigation context"
+    ]
+  }
+}
